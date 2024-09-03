@@ -1,4 +1,4 @@
-Trabalho desenvolvido com o objetivo de estimar o crescimento populacional entre os #censos de 2010 e 2022 para a cidade de #SãoLuís #maranhão que seguiu conforme descrito abaixo:
+Trabalho desenvolvido com o objetivo de estimar o crescimento populacional entre os #censos de 2010 e 2022 para a cidade de #SãoLuís #maranhão que seguiu conforme descrito:
 .
 Como as bases dos 2 censos (#SHPfiles) não eram compatíveis, foi  necessário um tratamento prévio no #QGIS para limitar as feições dos #setorescensitários dos 2 períodos para os limites do município; 
 .
